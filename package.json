@@ -1,10 +1,10 @@
 {
-  "name": "@nuxtjs/apollo",
+  "name": "@dovca/nuxtjs-apollo",
   "version": "4.0.1-rc.5",
   "license": "MIT",
   "main": "lib/module.js",
   "typings": "types/index.d.ts",
-  "repository": "https://github.com/nuxt-community/apollo-module",
+  "repository": "https://github.com/dovca/apollo-module",
   "homepage": "https://github.com/nuxt-community/apollo-module",
   "publishConfig": {
     "access": "public"
@@ -37,7 +37,7 @@
   "devDependencies": {
     "@babel/core": "latest",
     "@babel/preset-env": "latest",
-    "@nuxt/types": "latest",
+    "@dovca/nuxt-types": "latest",
     "@nuxtjs/eslint-config": "latest",
     "@types/graphql": "latest",
     "@types/universal-cookie": "latest",
